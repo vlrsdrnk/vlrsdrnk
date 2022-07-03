@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vlrsdrnk
+- 👋 Hi, I’m Valeriia
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me - inst: @vlrsdrnk
